@@ -16,5 +16,5 @@ programo porque me obligan nada más, la posta ni ganas jaj un abrazo.
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=cabrera-ulises&show_icons=true&theme=dark" alt="Estadísticas" height="150px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tcabrera-ulises&layout=compact&theme=dark" alt="Lenguajes" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabrera-ulises&layout=compact&theme=dark" alt="Lenguajes" height="150px" />
 </p>
