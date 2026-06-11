@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 hola, soy ulises cabrera
 
-<!--
-**cabrera-ulises/cabrera-ulises** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+programo porque me obligan nada más, la posta ni ganas jaj un abrazo.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Lo que tuve que entregar
+
+*   **[Biblio-App]([TU_LINK_ACA](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FTrollface&ved=0CBYQjRxqFwoTCJj96fbn_5QDFQAAAAAdAAAAABBq&opi=89978449))**: Base de datos en SQL Server para una biblioteca (3FN).
+*   **[Eco de Memoria]([TU_LINK_ACA](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FTrollface&ved=0CBYQjRxqFwoTCJj96fbn_5QDFQAAAAAdAAAAABBq&opi=89978449))**: Trabajo de lógica y strings en C++.
+*   **[Robot 4WD]([TU_LINK_ACA](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FTrollface&ved=0CBYQjRxqFwoTCJj96fbn_5QDFQAAAAAdAAAAABBq&opi=89978449))**: El autito a control remoto con Arduino y Bluetooth.
+
+---
+
+### 📊 Código subido obligado
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=cabrera-ulises&show_icons=true&theme=dark" alt="Estadísticas" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tcabrera-ulises&layout=compact&theme=dark" alt="Lenguajes" height="150px" />
+</p>
