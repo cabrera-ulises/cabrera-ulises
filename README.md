@@ -1,7 +1,10 @@
 # 👋 hola, soy ulises cabrera
 
 programo porque me obligan nada más, la posta ni ganas jaj un abrazo.
-
+<p align="center">
+  <img src="elteach.png" width="180" alt="elteach">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="mv3d.png" width="180" alt="mv3d">
+</p>
 ---
 
 ### 📂 Lo que tuve que entregar
